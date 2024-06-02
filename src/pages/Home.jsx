@@ -65,7 +65,6 @@ const Home = () => {
           </Box>
         </Flex>
       </Flex>
-      {/* {loading && <div>Loadin...</div>} */}
       <Grid
         templateColumns={{
           base: "1fr",
