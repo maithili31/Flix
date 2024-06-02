@@ -5,6 +5,7 @@ Tech Used :
 4. TMDB API
 
 Features :
+## THERE IS NO AUTO SEARCH. WRITE THE NAME OF THE MOVIE/TV SHOW AND PRESS ENTER. SEARCH WILL WORK.
 Creating a Modern Look: I used ChakraUI to design a modern and responsive user interface that looks good on all devices.
 Fetching Movie Data: I connected to an external API(TMDB) to get movie data and display it dynamically on our website.
 Secure User Login: I used Firebase to set up user authentication, allowing users to log in securely and have a personalized experience.
